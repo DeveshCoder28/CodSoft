@@ -1,0 +1,121 @@
+.about{
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+}
+body{
+    background-color: #0b0b0b;
+}
+
+.a{
+    text-align: center;
+    justify-content: center;
+    background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.52), rgba(0, 0, 0, 0.73)),
+    url(' https://mediacloud.saffronart.com/storyltd/2013/november/raghu_1311stor_13144_tbig.jpg ');
+    width: 1903px;
+    border: 2px solid #0b0b0b;
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+    ;
+    
+    
+    
+}
+.a-bg{
+    text-align: center;
+    justify-content: center;
+    
+    width: 50%;    
+}
+
+.about{
+    color: rgb(255, 255, 255);
+    margin: auto;
+    width: 50%;
+}
+
+.btn{
+    margin: 10px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.psg{
+    height: 70vh;
+    background-color: #0b0b0b;
+
+}
+.container{
+    margin-top: 150px;
+    color: aqua;
+}
+
+.card{
+    margin-left: 200px;
+}
+.card:hover {
+    border-color: rgb(13, 110, 253);
+    box-shadow: 0px 0px 10px 2px rgb(13, 110, 253);
+  }
+
+.card-text{
+    color: blue;
+}
+.jaja{
+    background-color: rgb(40, 53, 49);
+}
+
+.jaja:hover {
+    border-color: rgb(13, 110, 253);
+    box-shadow: 0px 0px 10px 2px rgb(13, 110, 253);
+  }
+
+  #testimonials{
+    
+    text-align: center;
+    color: aqua;
+    
+}
+.pebbles{
+    width: 100px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.dis{
+    color: aqua;
+    position: relative;
+    
+}
+.fam{
+    font-style: italic;
+}
+#disciple{
+    padding: 30px;
+}
+
+.accordion{
+    background-color: #0b0b0b;
+}
+
+.navbar-brand{
+    color: aqua;
+}
+.collapsed{
+    background-color: #0b0b0b;
+    color: aqua;
+}
+
+.accordion-button {
+    background-color: #0b0b0b;
+    color: aqua;
+}
+.accordion-body{
+    background-color: #0b0b0b;
+    color: aqua;
+}
